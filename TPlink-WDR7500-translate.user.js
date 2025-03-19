@@ -135,7 +135,7 @@ var dict_ch2eng_btn = {
 	//Datetime Management
 	"获取GMT时间":"Get GMT Time",
 	"bbb":"",
-};
+}
 
 var dict_ch2eng_title = {
 	//Titles on right square
